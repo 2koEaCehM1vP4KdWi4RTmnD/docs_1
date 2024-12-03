@@ -1,6 +1,6 @@
 # Features & Vision
 
-{project}’s capabilities bridge **top-tier AI methodologies** with an **accessible design**:
+Zevorn AI’s capabilities bridge **top-tier AI methodologies** with an **accessible design**:
 
 1. **Effortless No-Code Interface**
    * The platform welcomes all users, offering complex agent-building functionality in a code-free environment.
