@@ -7,5 +7,5 @@
    * Roll out advanced features for professional traders or large-scale portfolios, including real-time order book analytics and historical pattern correlation.
    * Offer more thorough data sets for backtesting, significantly boosting accuracy in risk assessments.
 3. **On-Chain Governance**
-   * Present a governance token that delegates a voice in the development of {project}.
+   * Present a governance token that delegates a voice in the development of Quovira AI.
    * Allow the community to manage resources, approve new plugins, and decide the platform’s strategic direction.

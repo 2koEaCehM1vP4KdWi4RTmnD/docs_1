@@ -1,6 +1,6 @@
 # Navigating the Wallet Analyzer
 
-{project}’s **Wallet Analyzer** uncovers a full suite of metrics and insights pertaining to on-chain funds, risk exposure, and overall profitability:
+Quovira AI’s **Wallet Analyzer** uncovers a full suite of metrics and insights pertaining to on-chain funds, risk exposure, and overall profitability:
 
 1. **Transaction Timeline**
    * Review a sequential narrative of deposits, withdrawals, and token swaps.

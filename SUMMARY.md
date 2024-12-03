@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* [What Is {project}?](README.md)
+* [What Is Quovira AI?](README.md)
 * [ Key Principles](introduction/key-principles.md)
 
 ## Getting Started
@@ -12,7 +12,7 @@
 * [Coin Analyzer Fundamentals](getting-started/coin-analyzer-fundamentals.md)
 * [Creating Your First AI Agent](getting-started/creating-your-first-ai-agent.md)
 
-## {project} Agent System
+## Quovira AI Agent System
 
 * [AI Agent Overview](project-agent-system/ai-agent-overview.md)
 * [Agent Monetization](project-agent-system/agent-monetization.md)
@@ -23,7 +23,7 @@
 * [Features & Vision](platform-features/features-and-vision.md)
 * [AI-Driven Wallet Analyzer](platform-features/ai-driven-wallet-analyzer.md)
 * [AI-Driven Coin Analyzer](platform-features/ai-driven-coin-analyzer.md)
-* [{project} Agent Builder](platform-features/project-agent-builder.md)
+* [Quovira AI Agent Builder](platform-features/project-agent-builder.md)
 * [Marketplace & Community](platform-features/marketplace-and-community.md)
 
 ## Technical Details
@@ -36,7 +36,7 @@
 
 ## Roadmap
 
-* [Q1 2025: {project} Genesis](roadmap/q1-2025-project-genesis.md)
+* [Q1 2025: Quovira AI Genesis](roadmap/q1-2025-project-genesis.md)
 * [Q2 2025: AI Expansion](roadmap/q2-2025-ai-expansion.md)
 * [Q3 2025: Elite Feature Set](roadmap/q3-2025-elite-feature-set.md)
 * [Long-Term Vision](roadmap/long-term-vision.md)
