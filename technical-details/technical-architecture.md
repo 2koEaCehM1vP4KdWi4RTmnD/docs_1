@@ -1,6 +1,6 @@
 # Technical Architecture
 
-{project} is powered by a **robust and modular** back-end designed to handle heavy data loads while maintaining real-time performance:
+BlonexAI is powered by a **robust and modular** back-end designed to handle heavy data loads while maintaining real-time performance:
 
 1. **Microservices Framework**
    * Independent, specialized services (AI engine, wallet indexer, aggregator) communicate via standardized APIs, enhancing flexibility and fault tolerance.
