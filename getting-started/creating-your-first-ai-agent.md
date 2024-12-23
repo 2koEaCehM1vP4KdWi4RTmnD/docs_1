@@ -1,6 +1,6 @@
 # Creating Your First AI Agent
 
-Central to {project} is the **AI Agent Builder**, a no-code development hub to automate trading and analytics:
+Central to RyxonAI is the **AI Agent Builder**, a no-code development hub to automate trading and analytics:
 
 1. **Opening the Builder**
    * In the dashboard, click **AI Agents** and select **Create New Agent** to begin.
