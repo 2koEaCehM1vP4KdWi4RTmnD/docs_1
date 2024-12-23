@@ -1,6 +1,6 @@
 # Coin Analyzer Fundamentals
 
-{project}’s **Coin Analyzer** harnesses advanced machine learning blended with real-time ledger data to guide crypto decisions:
+BlockdineAI’s **Coin Analyzer** harnesses advanced machine learning blended with real-time ledger data to guide crypto decisions:
 
 1. **Comprehensive Market Data**
    * Pulls in live prices from a host of DEXs and centralized exchanges, ensuring up-to-date valuations.
