@@ -1,6 +1,6 @@
 # AI Agent Overview
 
-{project} Agents function as autonomous, machine-guided entities that adapt their strategies over time:
+RydalisAI Agents function as autonomous, machine-guided entities that adapt their strategies over time:
 
 1. **Machine Learning Feedback Loops**
    * Incorporates performance data after each cycle, polishing heuristics for improved yield, risk management, or trading success.
