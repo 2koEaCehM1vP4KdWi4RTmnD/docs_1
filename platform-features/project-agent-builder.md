@@ -1,4 +1,4 @@
-# {project} Agent Builder
+# RyverixAI Agent Builder
 
 1. **Visual Design Canvas**
    * Draw out logic sequences by connecting “trigger” blocks to “action” blocks.
