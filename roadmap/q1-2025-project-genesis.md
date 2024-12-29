@@ -1,4 +1,4 @@
-# Q1 2025: {project} Genesis
+# Q1 2025: GrendovaAI Genesis
 
 1. **Initial Platform Rollout**
    * Launch the MVP featuring wallet analytics, basic coin surveillance, and an initial AI Agent framework.
